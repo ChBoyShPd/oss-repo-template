@@ -1,8 +1,8 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Adam Xu
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Class of 2021, ITWS Undergraduate
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
