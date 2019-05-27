@@ -7,4 +7,4 @@
 Class of 2021, ITWS Undergraduate
 
 ## Lab Reports
-[Lab 1](labs/lab01.md)
+[Lab 1](labs/lab01/lab01.md)
