@@ -16,3 +16,5 @@ Comment:
 ### Beautiful code
 
 ## Regular Expressions
+### Practice problems
+ - [Exercise 1](labs/lab01/15-1.png)
