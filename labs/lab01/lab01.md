@@ -18,3 +18,11 @@ Comment:
 ## Regular Expressions
 ### Practice problems
  - [Exercise 1](labs/lab01/15-1.png)
+ - [Exercise 2](labs/lab01/15-2.png)
+ - [Exercise 3](labs/lab01/15-3.png)
+ - [Exercise 4](labs/lab01/15-4.png)
+ - [Exercise 5](labs/lab01/15-5.png)
+ - [Exercise 6](labs/lab01/15-6.png)
+ - [Exercise 7](labs/lab01/15-7.png)
+### Puzzles
+ - [Exercise 7](labs/lab01/16-7.png)
