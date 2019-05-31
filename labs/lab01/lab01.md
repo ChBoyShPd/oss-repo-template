@@ -25,7 +25,7 @@ Comment:
  - [Exercise 6](labs/lab01/15-6.png)
  - [Exercise 7](labs/lab01/15-7.png)
 ### Puzzles
-All 9 puzzles completed, 4 shown.
+4 puzzles out of 5 completed.
  - [Puzzle 1](labs/lab01/16-1.png)
  - [Puzzle 3](labs/lab01/16-3.png)
  - [Puzzle 4](labs/lab01/16-4.png)
