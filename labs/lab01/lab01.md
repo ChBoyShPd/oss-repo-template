@@ -33,3 +33,6 @@ Comment:
 
 ## Blocky Maze \# 10
  - [Solution](labs/lab01/18.png)
+
+## Reflection
+I am planning to study the [MIPS Assembler and Runtime Simulator (MARS)](https://github.com/gon1332/mars.git). This written-in-Java software is unique that it's designed with the needs of education in mind, with capabilities of instruction timing, processor control signal simulation, etc.
