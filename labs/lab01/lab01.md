@@ -2,9 +2,9 @@
 ## Reading Assignments
 ### Open Source Definition
 It seems that with these guidelines, open source softwares are ensured to be able to **evolve**, and that the development, distribution and use were not restricted.
-Understanding to this dcument came with help from the [annotated version](https://opensource.org/osd-annotated) 
+Understanding to this dcument came with help from the [annotated version](https://opensource.org/osd-annotated).
 ### Smart Questions
-This article is a gem. I experience physical comfort just by reading it. My takeaway is: make effort and show your effort into the question (, not including wild guesses).
+This article is a gem. I experience physical comfort just by reading it. My takeaway is: while asking, make effort and show your effort into the question (, not including wild guesses).
 #### Suggestion for helpful answers
  - When you are unable to assist but know someone who might help, pointing the way can be helpful
  - Be respectable to your peers even they give different solutions than yours
