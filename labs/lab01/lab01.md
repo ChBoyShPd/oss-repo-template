@@ -30,3 +30,6 @@ All 9 puzzles completed, 4 shown.
  - [Puzzle 3](labs/lab01/16-3.png)
  - [Puzzle 4](labs/lab01/16-4.png)
  - [Puzzle 5](labs/lab01/16-5.png)
+
+## Blocky Maze \# 10
+ - [Solution](labs/lab01/18.png)
