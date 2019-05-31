@@ -27,6 +27,6 @@ Comment:
 ### Puzzles
 All 9 puzzles completed, 4 shown.
  - [Puzzle 1](labs/lab01/16-1.png)
- - [Puzzle 2](labs/lab01/16-2.png)
  - [Puzzle 3](labs/lab01/16-3.png)
  - [Puzzle 4](labs/lab01/16-4.png)
+ - [Puzzle 5](labs/lab01/16-5.png)
