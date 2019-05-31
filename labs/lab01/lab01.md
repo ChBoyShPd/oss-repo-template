@@ -17,22 +17,22 @@ Comment:
 
 ## Regular Expressions
 ### Practice problems
- - [Exercise 1](labs/lab01/15-1.png)
- - [Exercise 2](labs/lab01/15-2.png)
- - [Exercise 3](labs/lab01/15-3.png)
- - [Exercise 4](labs/lab01/15-4.png)
- - [Exercise 5](labs/lab01/15-5.png)
- - [Exercise 6](labs/lab01/15-6.png)
- - [Exercise 7](labs/lab01/15-7.png)
+ - [Exercise 1](15-1.png)
+ - [Exercise 2](15-2.png)
+ - [Exercise 3](15-3.png)
+ - [Exercise 4](15-4.png)
+ - [Exercise 5](15-5.png)
+ - [Exercise 6](15-6.png)
+ - [Exercise 7](15-7.png)
 ### Puzzles
 4 puzzles out of 5 completed.
- - [Puzzle 1](labs/lab01/16-1.png)
- - [Puzzle 3](labs/lab01/16-3.png)
- - [Puzzle 4](labs/lab01/16-4.png)
- - [Puzzle 5](labs/lab01/16-5.png)
+ - [Puzzle 1](16-1.png)
+ - [Puzzle 3](16-3.png)
+ - [Puzzle 4](16-4.png)
+ - [Puzzle 5](16-5.png)
 
 ## Blocky Maze \# 10
- - [Solution](labs/lab01/18.png)
+ - [Solution](18.png)
 
 ## Reflection
 I am planning to study the [MIPS Assembler and Runtime Simulator (MARS)](https://github.com/gon1332/mars.git). This written-in-Java software is unique that it's designed with the needs of education in mind, with capabilities of instruction timing, processor control signal simulation, etc.
